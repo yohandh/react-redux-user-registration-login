@@ -1,1 +1,1 @@
-# react-redux-user-registration-login
+# React/Redux - User Registration and Login Example
